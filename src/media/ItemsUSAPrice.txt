@@ -1,0 +1,5 @@
+candle, 12.99, 4
+soap, 15.00, 3
+spoon, 2.50, 1
+camera, 350.01, 0
+towel, 20.75, 10
